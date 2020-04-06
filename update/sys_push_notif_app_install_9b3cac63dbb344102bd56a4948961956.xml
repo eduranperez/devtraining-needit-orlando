@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
-        <active>false</active>
-        <last_registered_on>2020-04-01 21:05:56</last_registered_on>
+        <active>true</active>
+        <last_registered_on>2020-04-06 18:58:31</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-01 21:05:56</sys_created_on>
         <sys_id>9b3cac63dbb344102bd56a4948961956</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>E99E03E1CE4E3B5582FEA35D979630C59E6574A8AB8CBF9DB36140C1AA066B12</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
@@ -15,7 +15,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_push_notif_app_install_9b3cac63dbb344102bd56a4948961956</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-01 22:05:28</sys_updated_on>
+        <sys_updated_on>2020-04-06 18:58:31</sys_updated_on>
         <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>E99E03E1CE4E3B5582FEA35D979630C59E6574A8AB8CBF9DB36140C1AA066B12</token>
     </sys_push_notif_app_install>
